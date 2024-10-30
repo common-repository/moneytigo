@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="34.163.110.113//home/api_ovri_app/" local="133413144776499860" remote="133001496000000000" Dst="2" />
+<file name="ClientInterface.php" server="34.163.110.113//home/api_ovri_app/" local="133413144776826412" remote="133001496000000000" Dst="2" />
+<file name="HandlerStack.php" server="34.163.110.113//home/api_ovri_app/" local="133413144785255899" remote="133001496000000000" Dst="2" />
+<file name="MessageFormatter.php" server="34.163.110.113//home/api_ovri_app/" local="133413144785421974" remote="133001496000000000" Dst="2" />
+<file name="Pool.php" server="34.163.110.113//home/api_ovri_app/" local="133413144785867195" remote="133001496000000000" Dst="2" />
+<file name="Middleware.php" server="34.163.110.113//home/api_ovri_app/" local="133413144786004907" remote="133001496000000000" Dst="2" />
+<file name="PrepareBodyMiddleware.php" server="34.163.110.113//home/api_ovri_app/" local="133413144786128668" remote="133001496000000000" Dst="2" />
+<file name="RedirectMiddleware.php" server="34.163.110.113//home/api_ovri_app/" local="133413144786550454" remote="133001496000000000" Dst="2" />
+<file name="RequestOptions.php" server="34.163.110.113//home/api_ovri_app/" local="133413144786860180" remote="133001496000000000" Dst="2" />
+<file name="RetryMiddleware.php" server="34.163.110.113//home/api_ovri_app/" local="133413144787315182" remote="133001496000000000" Dst="2" />
+<file name="TransferStats.php" server="34.163.110.113//home/api_ovri_app/" local="133413144788075675" remote="133001496000000000" Dst="2" />
+<file name="UriTemplate.php" server="34.163.110.113//home/api_ovri_app/" local="133413144788380507" remote="133001496000000000" Dst="2" />
+<file name="Utils.php" server="34.163.110.113//home/api_ovri_app/" local="133413144788835568" remote="133001496000000000" Dst="2" />
+<file name="functions.php" server="34.163.110.113//home/api_ovri_app/" local="133413144788996157" remote="133001496000000000" Dst="2" />
+<file name="functions_include.php" server="34.163.110.113//home/api_ovri_app/" local="133413144789444181" remote="133001496000000000" Dst="2" />
+</dwsync>

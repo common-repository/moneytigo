@@ -1,0 +1,24 @@
+{
+    "name": "ovri/payment",
+    "type": "library",
+    "description": "Composer Library for payment gateway Ovri.com / Ovri.app",
+    "homepage": "https://github.com/OvriBanking/Ovri_SDK_PHP",
+    "keywords": ["ovri", "moneytigo", "ovri banking", "banking", "ips-payment", "payment gateway", "card processing", "credit card", "processor", "gateway", "payment", "bank"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IPS INTERNATIONNAL SAS",
+            "email": "help@ovri.app",
+            "homepage": "https://www.ovri.com"
+        }
+    ],
+  "require": {
+    "php": ">=7.0",
+    "guzzlehttp/guzzle": "^6.4"
+  },
+    "autoload": {
+        "psr-4": {
+            "Ovri\\": "src"
+        }
+    }
+}

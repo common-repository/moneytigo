@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadResponseException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144778640355" remote="133001496000000000" Dst="2" />
+<file name="ClientException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144779140401" remote="133001496000000000" Dst="2" />
+<file name="ConnectException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144779713518" remote="133001496000000000" Dst="2" />
+<file name="GuzzleException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144779713518" remote="133001496000000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144780648611" remote="133001496000000000" Dst="2" />
+<file name="RequestException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144781026667" remote="133001496000000000" Dst="2" />
+<file name="SeekException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144781495546" remote="133001496000000000" Dst="2" />
+<file name="ServerException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144781991277" remote="133001496000000000" Dst="2" />
+<file name="TooManyRedirectsException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144782156010" remote="133001496000000000" Dst="2" />
+<file name="TransferException.php" server="34.163.110.113//home/api_ovri_app/" local="133413144782445025" remote="133001496000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ovri Banking\n"
+"POT-Creation-Date: 2023-10-12 16:46+0200\n"
+"PO-Revision-Date: 2023-10-12 16:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-ovri.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-wc-ovri.php:59
+msgid ""
+"Accept credit cards in less than 5 minutes. <a href=\"https://my.ovri.app"
+"\">Open an account now !</a>"
+msgstr ""
+"Acepta tarjetas de crédito en menos de 5 minutos. <a href=\"https://my.ovri."
+"app\">¡Abra una cuenta ahora!</a>"
+
+#: class-wc-ovri.php:122
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+"Lo sentimos, parece que no hay métodos de pago disponibles para su estado. "
+"Póngase en contacto con nosotros si necesita ayuda o desea realizar otros "
+"trámites."
+
+#: class-wc-ovri.php:122
+msgid "Please fill in your details above to see available payment methods."
+msgstr "Rellene sus datos para ver los métodos de pago disponibles."
+
+#: class-wc-ovri.php:134
+msgid "Place order"
+msgstr "Realizar pedido"
+
+#: class-wc-ovri.php:139
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Dado que su navegador no admite JavaScript o está desactivado, asegúrese de "
+"hacer clic en el botón <em>Actualizar totales</em> antes de realizar el "
+"pedido. Si no lo hace, es posible que se le cobre un importe superior al "
+"indicado anteriormente."
+
+#: class-wc-ovri.php:141 class-wc-ovri.php:142
+msgid "Update totals"
+msgstr "Actualizar totales"
+
+#: class-wc-ovri.php:188
+msgid "Ovri configuration"
+msgstr "Configuración de Ovri"
+
+#: class-wc-ovri.php:192 class-wc-ovripnf-four.php:49
+#: class-wc-ovripnf-three.php:49 class-wc-ovripnf-two.php:49
+msgid "Accepts payments by credit card with Ovri"
+msgstr "Acepta pagos con tarjeta de crédito con Ovri"
+
+#: class-wc-ovri.php:195 class-wc-ovripnf-four.php:50
+#: class-wc-ovripnf-three.php:50 class-wc-ovripnf-two.php:50
+msgid ""
+"Ovri is a secure payment solution on the Internet. As a virtual POS "
+"(Electronic Payment Terminal), Ovri makes it possible to cash payments made "
+"on the Internet 24 hours a day, 7 days a week. This service relieves your "
+"site of the entire payment phase; the latter takes place directly on our "
+"secure payment platform."
+msgstr ""
+"Ovri es una solución de pago seguro en línea. Como TPV virtual (terminal de "
+"pago electrónico), Ovri le permite realizar pagos en línea las 24 horas del "
+"día, los 7 días de la semana. Este servicio libera a su sitio de todo el "
+"proceso de pago, que se realiza directamente en nuestra plataforma de pago "
+"seguro."
+
+#: class-wc-ovri.php:198 class-wc-ovripnf-four.php:51
+#: class-wc-ovripnf-three.php:51 class-wc-ovripnf-two.php:51
+msgid "For any problem or information contact: hello@ovri.app"
+msgstr "Para cualquier problema o información contactar con: hello@ovri.app"
+
+#: class-wc-ovri.php:201 class-wc-ovripnf-four.php:52
+#: class-wc-ovripnf-three.php:52 class-wc-ovripnf-two.php:52
+msgid "Get a Ovri account"
+msgstr "Obtener una cuenta de Ovri"
+
+#: class-wc-ovri.php:203 class-wc-ovripnf-four.php:52
+#: class-wc-ovripnf-three.php:52 class-wc-ovripnf-two.php:52
+msgid "Test free"
+msgstr "Prueba libre"
+
+#: class-wc-ovri.php:205 class-wc-ovripnf-four.php:52
+#: class-wc-ovripnf-three.php:52 class-wc-ovripnf-two.php:52
+msgid "Official site"
+msgstr "Sitio oficial"
+
+#: class-wc-ovri.php:207 class-wc-ovripnf-four.php:52
+#: class-wc-ovripnf-three.php:52 class-wc-ovripnf-two.php:52
+#: woocommerce-ovri.php:102
+msgid "Documentation"
+msgstr "Documentación"
+
+#: class-wc-ovri.php:212 class-wc-ovripnf-four.php:55
+#: class-wc-ovripnf-three.php:55 class-wc-ovripnf-two.php:55
+msgid ""
+"If you want your customer to be automatically redirected to your site once "
+"the payment is accepted or failed, consider activating this option directly "
+"in the configuration of your website in your Ovri DashBoard"
+msgstr ""
+"Si desea que su cliente sea redirigido automáticamente a su sitio web una "
+"vez que el pago sea aceptado o fallido, considere activar esta opción "
+"directamente en la configuración de su sitio web en su espacio de "
+"administración OVRI"
+
+#: class-wc-ovri.php:282
+msgid "Ovri - Transaction "
+msgstr "Ovri - Transacción "
+
+#: class-wc-ovri.php:494
+msgid "Credit Card Number is not valid."
+msgstr "El número de tarjeta de crédito no es válido."
+
+#: class-wc-ovri.php:497
+msgid "Card Expiry Date is not valid."
+msgstr "La fecha de caducidad de la tarjeta no es válida."
+
+#: class-wc-ovri.php:500
+msgid "Card CVC is not entered."
+msgstr "No se ha introducido el CVC de la tarjeta."
+
+#: class-wc-ovri.php:549
+msgid "An internal error occurred"
+msgstr "Se ha producido un error interno"
+
+#: class-wc-ovri.php:571
+msgid "Please wait a few moments ..."
+msgstr "Por favor, espere unos momentos ..."
+
+#: class-wc-ovri.php:578 class-wc-ovri.php:590
+msgid "Sorry, your payment was declined !"
+msgstr "Lo sentimos, ¡tu pago ha sido rechazado!"
+
+#: class-wc-ovri.php:610 class-wc-ovripnf-four.php:72
+#: class-wc-ovripnf-three.php:72 class-wc-ovripnf-two.php:72
+msgid "Enable / Disable"
+msgstr "Habilitar / Deshabilitar"
+
+#: class-wc-ovri.php:612
+msgid "Activate card payment with Ovri"
+msgstr "Activar el pago con tarjeta con Ovri"
+
+#: class-wc-ovri.php:616 class-wc-ovripnf-four.php:85
+#: class-wc-ovripnf-three.php:85 class-wc-ovripnf-two.php:85
+msgid "Method title"
+msgstr "Título del método"
+
+#: class-wc-ovri.php:618 class-wc-ovripnf-four.php:87
+#: class-wc-ovripnf-three.php:87 class-wc-ovripnf-two.php:87
+msgid "This is the name displayed on your checkout"
+msgstr "Este es el nombre que se muestra en el proceso de pago"
+
+#: class-wc-ovri.php:620
+msgid "Credit card payment"
+msgstr "Pago con tarjeta de crédito"
+
+#: class-wc-ovri.php:623 class-wc-ovripnf-four.php:92
+#: class-wc-ovripnf-three.php:92 class-wc-ovripnf-two.php:92
+msgid "Message before payment"
+msgstr "Mensaje antes del pago"
+
+#: class-wc-ovri.php:625 class-wc-ovripnf-four.php:94
+#: class-wc-ovripnf-three.php:94 class-wc-ovripnf-two.php:94
+msgid "Message that the customer sees when he chooses this payment method"
+msgstr "Mensaje que el cliente ve cuando elige este método de pago"
+
+#: class-wc-ovri.php:627 class-wc-ovripnf-four.php:96
+#: class-wc-ovripnf-three.php:96 class-wc-ovripnf-two.php:96
+msgid "You will be redirected to our secure server to make your payment"
+msgstr "Usted será redirigido a nuestro servidor seguro para hacer su pago"
+
+#: class-wc-ovri.php:630
+msgid "Your API Key"
+msgstr "La clave de la API"
+
+#: class-wc-ovri.php:631 class-wc-ovri.php:636
+msgid ""
+"To obtain it go to the configuration of your merchant contract (section "
+"\"Merchant account\")."
+msgstr ""
+"Para obtenerlo vaya a la configuración de su contrato de comerciante "
+"(sección \"Cuenta de comerciante\")."
+
+#: class-wc-ovri.php:635
+msgid "Your Secret Key"
+msgstr "Tu clave secreta"
+
+#: class-wc-ovri.php:640
+msgid "Enable payment without redirection (Hosted fields)"
+msgstr "Permitir el pago sin redireccionamiento (campos alojados)"
+
+#: class-wc-ovri.php:641
+msgid ""
+"Your customer will not be redirected to the payment platform, but will enter "
+"their card details on the checkout page."
+msgstr ""
+"Su cliente no será redirigido a la plataforma de pago, sino que introducirá "
+"los datos de su tarjeta en la página de pago."
+
+#: class-wc-ovri.php:645
+msgid "Activate debug mode and view OVRI/Wordpress output"
+msgstr "Activar el modo de depuración y ver la salida de OVRI/Wordpress"
+
+#: class-wc-ovri.php:646
+msgid "Necessary for troubleshooting, but do not activate in production mode!"
+msgstr ""
+"Necesario para la resolución de problemas, ¡pero no lo active en modo de "
+"producción!"
+
+#: class-wc-ovri.php:651
+msgid "Disable all other payment methods"
+msgstr "Desactivar todos los demás métodos de pago"
+
+#: class-wc-ovri.php:652
+msgid "The payment form will be displayed immediately (recommended)"
+msgstr "El formulario de pago se mostrará inmediatamente (recomendado)"
+
+#: class-wc-ovri.php:851
+msgid "Don't refresh the page, otherwise you'll have to re-order"
+msgstr "No actualice la página, de lo contrario tendrá que volver a ordenar"
+
+#: class-wc-ovri.php:854
+msgid ""
+"Your bank requires your authentication. Please finalize this identification "
+"so that your payment can be processed"
+msgstr ""
+"Su banco requiere su autentificación. Por favor, finalice esta "
+"identificación para que su pago pueda ser procesado"
+
+#: class-wc-ovri.php:877
+#, php-format
+msgid ""
+"<strong>%s</strong> is enabled and WooCommerce is not forcing the SSL "
+"certificate on your checkout page. Please ensure that you have a valid SSL "
+"certificate and that you are <a href=\"%s\">forcing the checkout pages to be "
+"secured.</a>"
+msgstr ""
+"<strong>%s</strong> is enabled and WooCommerce is not forcing the SSL "
+"certificate on your checkout page. Asegúrese de que dispone de un "
+"certificado SSL válido y de que está <a href=\"%s\">forzando la seguridad de "
+"las páginas de pago.</a>"
+
+#: class-wc-ovri.php:935 class-wc-ovri.php:939 class-wc-ovri.php:959
+msgid "Payment Declined reason : "
+msgstr "Motivo del pago rechazado : "
+
+#: class-wc-ovri.php:1136 class-wc-ovri.php:1139 class-wc-ovripnf-four.php:176
+#: class-wc-ovripnf-four.php:179 class-wc-ovripnf-three.php:176
+#: class-wc-ovripnf-three.php:179 class-wc-ovripnf-two.php:176
+#: class-wc-ovripnf-two.php:179
+msgid "Ovri : "
+msgstr "Ovri : "
+
+#: class-wc-ovri.php:1148 class-wc-ovri.php:1153
+msgid "Ovri : Connection error"
+msgstr "Ovri : Error de conexión"
+
+#: class-wc-ovripnf-four.php:22
+msgid "Ovri - Payment in four instalments"
+msgstr "Ovri - Pago en cuatro plazos"
+
+#: class-wc-ovripnf-four.php:27
+msgid ""
+"Accept payment in four instalments! <a href=\"https://my.ovri.app\">Open an "
+"account now !</a>"
+msgstr ""
+"¡Acepta el pago en cuatro cuotas! <a href=\"https://my.ovri.app\">¡Abra una "
+"cuenta ahora!</a>"
+
+#: class-wc-ovripnf-four.php:43
+msgid "Ovri configuration (Payment in 4 times)"
+msgstr "Configuración ovri (Pago en 4 veces)"
+
+#: class-wc-ovripnf-four.php:46 class-wc-ovripnf-three.php:46
+#: class-wc-ovripnf-two.php:46
+msgid ""
+"Attention, if you activate the payment in several times in this case your "
+"customer will pay his order in several times and you will receive the "
+"installments as they are due on your payment account! You can subscribe to "
+"an unpaid guarantee at Ovri to protect yourself against unpaid invoices... "
+"However, keep in mind that OVRI does not advance funds."
+msgstr ""
+"¡Atención, si activas el pago en varias ocasiones en este caso tu cliente "
+"pagará su pedido en varias ocasiones y recibirás las cuotas tal y como "
+"vencen en tu cuenta de pago! Puede suscribirse a una garantía impaga en Ovri "
+"para protegerse contra facturas impagas... Sin embargo, tenga en cuenta que "
+"OVRI no adelanta fondos."
+
+#: class-wc-ovripnf-four.php:74
+msgid "Activate payment in four instalments"
+msgstr "Activar el pago en cuatro plazos"
+
+#: class-wc-ovripnf-four.php:78 class-wc-ovripnf-three.php:78
+#: class-wc-ovripnf-two.php:78
+msgid "Minimum amount"
+msgstr "Cantidad mínima"
+
+#: class-wc-ovripnf-four.php:80 class-wc-ovripnf-three.php:80
+#: class-wc-ovripnf-two.php:80
+msgid ""
+"Indicate the minimum amount of the cart to be able to use this payment "
+"method (Minimum 50 EUR)"
+msgstr ""
+"Indicar el importe mínimo del carrito para poder utilizar este método de "
+"pago (Mínimo 50 EUR)"
+
+#: class-wc-ovripnf-four.php:81 class-wc-ovripnf-three.php:81
+#: class-wc-ovripnf-two.php:81
+msgid ""
+"Define from which amount you want your customer to be able to use this "
+"payment method."
+msgstr ""
+"Define a partir de qué importe quieres que tu cliente pueda utilizar este "
+"método de pago."
+
+#: class-wc-ovripnf-four.php:89
+msgid "Credit card in four instalments"
+msgstr "Tarjeta de crédito en cuatro plazos"
+
+#: class-wc-ovripnf-three.php:22
+msgid "Ovri - Payment in three instalments"
+msgstr "Ovri - Pago en tres plazos"
+
+#: class-wc-ovripnf-three.php:27
+msgid ""
+"Accept payment in three instalments! <a href=\"https://my.ovri.app\">Open an "
+"account now !</a>"
+msgstr ""
+"¡Acepta el pago en tres cuotas! <a href=\"https://my.ovri.app\">¡Abra una "
+"cuenta ahora!</a>"
+
+#: class-wc-ovripnf-three.php:43
+msgid "Ovri configuration (Payment in 3 times)"
+msgstr "Configuración ovri (Pago en 3 veces)"
+
+#: class-wc-ovripnf-three.php:74
+msgid "Activate payment in three instalments"
+msgstr "Activar el pago en tres plazos"
+
+#: class-wc-ovripnf-three.php:89
+msgid "Credit card in three instalments"
+msgstr "Tarjeta de crédito en tres plazos"
+
+#: class-wc-ovripnf-two.php:22
+msgid "Ovri - Payment in two instalments"
+msgstr "Ovri - Pago en dos plazos"
+
+#: class-wc-ovripnf-two.php:27
+msgid ""
+"Accept payment in two instalments! <a href=\"https://my.ovri.app\">Open an "
+"account now !</a>"
+msgstr ""
+"¡Acepta el pago en dos cuotas! <a href=\"https://my.ovri.app\">¡Abra una "
+"cuenta ahora!</a>"
+
+#: class-wc-ovripnf-two.php:43
+msgid "Ovri configuration (Payment in 2 times)"
+msgstr "Configuración ovri (Pago en 2 veces)"
+
+#: class-wc-ovripnf-two.php:74
+msgid "Activate payment in two instalments"
+msgstr "Activar el pago en dos plazos"
+
+#: class-wc-ovripnf-two.php:89
+msgid "Credit card in two instalments"
+msgstr "Tarjeta de crédito en dos cuotas"
+
+#: woocommerce-ovri.php:33
+msgid "A new version of the OVRI plugin is currently available. update quickly"
+msgstr ""
+"Ya está disponible una nueva versión del plugin OVRI. actualiza rápidamente"
+
+#: woocommerce-ovri.php:48
+msgid "Secure payment by OVRI.COM"
+msgstr "Pago seguro por OVRI.COM"
+
+#: woocommerce-ovri.php:48
+msgid "OVRI payment solution for Wordpress Woocommerce"
+msgstr "Solución de pago OVRI para Wordpress Woocommerce"
+
+#: woocommerce-ovri.php:48
+msgid "Ovri Payment for WordPress"
+msgstr "Pago Ovri para WordPress"
+
+#: woocommerce-ovri.php:111
+#, php-format
+msgid "The Ovri module works from Woocommerce version %s minimum"
+msgstr "El módulo Ovri funciona desde la versión de Woocommerce %s mínimo"
+
+#: woocommerce-ovri.php:177
+msgid "Payment Gateways"
+msgstr "Pasarelas de Pago"
+
+#: woocommerce-ovri.php:195 woocommerce-ovri.php:205 woocommerce-ovri.php:216
+#: woocommerce-ovri.php:227
+msgid "Module not configured, API key or ENCRYPTION key missing"
+msgstr "Módulo no configurado, falta la clave de API o la clave ENCRYPTION"
+
+#. Plugin Name of the plugin/theme
+msgid "Ovri Payment"
+msgstr "Ovri Payment"
+
+#. Plugin URI of the plugin/theme
+msgid "https://my.ovri.app"
+msgstr "https://my.ovri.app"
+
+#. Description of the plugin/theme
+msgid "Accept credit cards in less than 5 minutes"
+msgstr "Aceptar tarjetas de crédito en menos de 5 minutos"
+
+#. Author of the plugin/theme
+msgid "OVRI SAS"
+msgstr "OVRI SAS"
+
+#. Author URI of the plugin/theme
+msgid "https://www.ovri.com"
+msgstr "https://www.ovri.com"
+
+#~ msgid "Ovri"
+#~ msgstr "Ovri"
+
+#~ msgid "Ovri Banking"
+#~ msgstr "Ovri Banking"

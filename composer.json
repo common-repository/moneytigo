@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ovri/payment": "^1.0"
+    }
+}

@@ -1,0 +1,104 @@
+.payment_method_ovri img {
+
+  padding-bottom: 5px !important;
+
+}
+
+
+
+.payment_method_ovripnftwo img {
+
+  padding-bottom: 5px !important;
+
+}
+
+
+
+.payment_method_ovripnfthree img {
+
+  padding-bottom: 5px !important;
+
+}
+
+
+
+.payment_method_ovripnffour img {
+
+  padding-bottom: 5px !important;
+
+}
+
+
+
+.payment_method_ovri {
+
+  #ovri-card-holder {
+
+    display: none !important;
+
+    visibility: none !important;
+
+  }
+
+  label[for="ovri-card-holder"] {
+
+    display: none !important;
+
+    visibility: none !important;
+
+  }
+
+
+
+}
+
+.method-title {
+  display: flex;
+  /* Utilise le modèle flexbox pour aligner les éléments */
+  align-items: center;
+  /* Centre verticalement les éléments */
+  width: 100%;
+  justify-content: space-between;
+}
+
+.payment-logos {
+  display: flex;
+  /* Affiche les logos en ligne */
+  margin-left: 20px;
+  /* Espace entre le titre et les logos */
+}
+
+.payment-logos img {
+  width: 40px;
+  /* Ajustez la taille des logos selon vos besoins */
+  margin-left: 10px;
+  /* Ajoute un espace entre les logos */
+}
+
+.imagelogoBlockOvri {
+
+  width: 100% !important;
+}
+
+@media (max-width: 600px) {
+  .method-title {
+    flex-direction: column;
+    /* Aligne le titre et les logos en colonne */
+    align-items: flex-start;
+    /* Aligne le contenu à gauche */
+  }
+
+  .payment-logos {
+    margin-left: 0;
+    /* Enlève l'espace à gauche des logos */
+    margin-top: 10px;
+    /* Ajoute un espace au-dessus des logos */
+  }
+
+  .payment-logos img {
+    width: 30px;
+    /* Réduit la taille des logos pour les mobiles */
+    margin-left: 5px;
+    /* Réduit l'espace entre les logos */
+  }
+}
